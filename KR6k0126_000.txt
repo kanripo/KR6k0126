@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩五法懺悔文
+#+DATE: 2015-08-30 20:44:48.980176
+#+PROPERTY: JUAN 0
