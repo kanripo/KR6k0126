@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:48.774235
+#+DATE: 2015-08-30 20:44:49.933286
 #+TITLE: 菩薩五法懺悔文
 #+PROPERTY: CBETA_ID T24n1504
 #+PROPERTY: ID KR6k0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1504
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0126_T_000-1121b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0126_T_001-1121b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1504¶
-
- 《菩薩五法懺悔文》¶
+No. 1504¶
+《菩薩五法懺悔文》¶
 ¶
 失譯人名今附梁錄¶
 
